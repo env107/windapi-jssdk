@@ -1,0 +1,25 @@
+{
+  "name": "windapi-jssdk",
+  "version": "0.0.4",
+  "description": "windapi jssdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/env107/windapi-jssdk.git"
+  },
+  "keywords": [
+    "windapi-jssdk"
+  ],
+  "author": "env107",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/env107/windapi-jssdk/issues"
+  },
+  "homepage": "https://github.com/env107/windapi-jssdk#readme",
+  "dependencies": {
+    "timestamp": "0.0.1"
+  }
+}
